@@ -13,7 +13,6 @@ Ingeniero Mecánico y desarrollador autodidacta enfocado en programación, arqui
 C#  
 JavaScript  
 Python  
-
 Unity  
 Git  
 Visual Studio  
@@ -22,11 +21,14 @@ Visual Studio
 
 ## Proyectos
 
-Videojuegos desarrollados en Unity  
+Videojuegos desarrollados en Unity:  
 https://cccoriolis.itch.io/
 
-Repositorios de desarrollo  
+Repositorios de desarrollo:  
 https://github.com/Eddiusccc
+
+LinkedIn:  
+https://www.linkedin.com/in/edgaresakellariou/
 
 ---
 
