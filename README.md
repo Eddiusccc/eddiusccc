@@ -2,13 +2,13 @@
 
 # Edgar E. Sakellariou
 
-Junior Software Developer | Game Developer
+Junior Game Developer | Game Designer
 
-Ingeniero Mecánico y desarrollador autodidacta enfocado en programación, arquitectura de código y desarrollo de videojuegos.
+Mechanical Engineer and self-taught developer focused on programming, code architecture, and game development.
 
 ---
 
-## Tecnologías
+## Technologies
 
 C#  
 JavaScript  
@@ -21,10 +21,10 @@ Visual Studio
 
 ## Proyectos
 
-Videojuegos desarrollados en Unity:  
+Games developed in Unity:
 https://cccoriolis.itch.io/
 
-Repositorios de desarrollo:  
+Development repositories:  
 https://github.com/Eddiusccc
 
 LinkedIn:  
@@ -32,7 +32,7 @@ https://www.linkedin.com/in/edgaresakellariou/
 
 ---
 
-## Actualmente aprendiendo
+## Currently learning
 
 React  
 Node.js  
